@@ -2,7 +2,8 @@
 
 Convert Ordnance Survey OpenData into AutoCAD-compatible DXF files.
 
-Built for architects and technologists who need OS mapping data in their CAD environment without paying for expensive conversion tools.
+Built for architects and technologists who wish to access the open-source OS mapping data in their CAD environment.
+Architecture design by https://jakewhitearchitecture.com/ code by https://claude.ai/
 
 ## What it does
 
